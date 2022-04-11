@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Leite, também conhecido como DL ZuuS no mundo dos games, sou um ex jogador profissional de E-SPORTS que se apaixonou por progamação😁👋
+### Olá! Eu sou o Felipe Leite, ex jogador profissional de E-SPORTS que se apaixonou por progamação😁👋
 
 - 🔭 Hoje trabalho com Análise e Desenvolvimento de Sistemas ( Estagiário ) 
 - 🌱 Estudando Desenvolvimento Mobile Flutter / Desenvolvimento web HTML5, CSS e Javascript

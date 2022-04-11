@@ -1,4 +1,4 @@
-### Olá! Eu sou o Felipe Leite, ex jogador profissional de E-SPORTS que acabou se apaixonando por progamação😁👋
+### Olá! Eu sou o Felipe Leite, ex jogador profissional de E-SPORTS que se apaixonou pelo universo de progamação 😁👋
 
 - 🔭 Hoje trabalho com Análise e Desenvolvimento de Sistemas ( Estagiário ) 
 - 🌱 Estudando Desenvolvimento Mobile Flutter / Desenvolvimento web HTML5, CSS e Javascript

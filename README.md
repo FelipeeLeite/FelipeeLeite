@@ -1,7 +1,7 @@
 
 
-- 🔭 Hoje trabalho com Análise e Desenvolvimento de Sistemas ( Estagiário ) 
-- 🌱 Estudando Desenvolvimento Mobile Flutter / Desenvolvimento web HTML5, CSS e Javascript
+- 🔭  Estagiário em Análise e Desenvolvimento de Sistemas 
+- 🌱 Dominando/Estudando HTML5 | CSS3 | Javascript | React | Firebase | Node.js| MongoDB
 - 📫 Contato: felipedev99@outlook.com
 
 <div align="center">

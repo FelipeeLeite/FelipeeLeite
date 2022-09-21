@@ -1,4 +1,4 @@
-- 🔭  Estagiário em Análise e Desenvolvimento de Sistemas 
+
 - 📫 Contato: felipedev99@gmail.com
 
 <div align="center">
